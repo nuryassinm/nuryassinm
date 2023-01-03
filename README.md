@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuru
+-  Hi,👋 I’m @nuru
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning fullstack web developement & app development 
 - 💞️ I’m looking to collaborate on ...
