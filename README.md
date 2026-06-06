@@ -1,11 +1,24 @@
-<h2 align="left">Hi 👋! My name is Nurhussen</h2>
+<h1 align="left">Hi 👋! My name is Nurhussen</h1>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nurhussen/nurhussen/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/nurhussen/nurhussen/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
+###
+
+<p align="left">I’m interested in web development </p>
+
+###
+
+<h2 align="left"> I’m currently learning fullstack web developement </h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning backend with node js<br>🎯 Goals: Full Stack Developmet <br>🎲 Fun fact: Crazy Gamer</p>
+
+###
+
+<h2 align="left">💞️ I’m looking to collaborate on ...</h2>
+
 
 ###
 
