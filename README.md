@@ -102,3 +102,10 @@
 </picture>
 
 ###
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nurhussen/nurhussen/snake-output/snake.svg" alt="Snake animation" />
+
+###
